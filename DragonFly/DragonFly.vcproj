@@ -45,7 +45,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
-				AdditionalIncludeDirectories="&quot;$(SolutionDir)tinyxml_lib&quot;;&quot;$(SolutionDir)cryptopp563&quot;;&quot;C:\Program Files\MySQL\MySQL Connector.C 6.1\include&quot;"
+				AdditionalIncludeDirectories="&quot;C:\Program Files\Visual Leak Detector\include&quot;;&quot;$(SolutionDir)tinyxml_lib&quot;;&quot;$(SolutionDir)cryptopp563&quot;;&quot;C:\Program Files\MySQL\MySQL Connector.C 6.1\include&quot;"
 				PreprocessorDefinitions="WIN32;_WINDOWS;_DEBUG"
 				MinimalRebuild="true"
 				BasicRuntimeChecks="3"
@@ -70,7 +70,7 @@
 				Name="VCLinkerTool"
 				AdditionalDependencies="libmysql.lib cryptlib.lib tinyxml.lib"
 				LinkIncremental="2"
-				AdditionalLibraryDirectories="&quot;$(SolutionDir)$(ConfigurationName)&quot;;&quot;C:\Program Files\MySQL\MySQL Connector.C 6.1\lib&quot;"
+				AdditionalLibraryDirectories="&quot;C:\Program Files\Visual Leak Detector\lib\Win32&quot;;&quot;$(SolutionDir)$(ConfigurationName)&quot;;&quot;C:\Program Files\MySQL\MySQL Connector.C 6.1\lib&quot;"
 				GenerateDebugInformation="true"
 				SubSystem="2"
 				TargetMachine="1"

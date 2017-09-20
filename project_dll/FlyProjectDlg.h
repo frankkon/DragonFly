@@ -1,5 +1,7 @@
 #pragma once
 
+#include "FlyToolBar.h"   
+
 // CFlyProjectDlg 对话框
 
 class CFlyProjectDlg : public CDialog
@@ -16,7 +18,8 @@ public:
 protected:
 	virtual void DoDataExchange(CDataExchange* pDX);    // DDX/DDV 支持
 
-    CToolBar m_wndToolBar;
+    //CToolBar m_wndToolBar;
+    CFlyToolBar m_wndToolBar;
 
 	DECLARE_MESSAGE_MAP()
 public:

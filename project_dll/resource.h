@@ -9,7 +9,6 @@
 #define IDC_COMBO2                      1004
 #define IDR_TOOLBAR                     1004
 #define IDC_COMBO3                      1005
-#define IDB_TOOLBAR                     1007
 #define ID_BUTTON_SAVE                  32777
 #define ID_BUTTON_NEW                   32778
 #define ID_BUTTON_PREV                  32779

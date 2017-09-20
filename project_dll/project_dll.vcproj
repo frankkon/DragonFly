@@ -190,6 +190,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\FlyToolBar.cpp"
+				>
+			</File>
+			<File
 				RelativePath=".\project_dll.cpp"
 				>
 			</File>
@@ -229,6 +233,10 @@
 			>
 			<File
 				RelativePath=".\FlyProjectDlg.h"
+				>
+			</File>
+			<File
+				RelativePath=".\FlyToolBar.h"
 				>
 			</File>
 			<File

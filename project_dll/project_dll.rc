@@ -149,8 +149,7 @@ END
 // Bitmap
 //
 
-IDR_TOOLBAR             BITMAP                  "D:\\Projects\\Source\\CodeCenter\\DragonFly\\project_dll\\res\\toolbar.bmp"
-IDB_TOOLBAR             BITMAP                  "res\\toolbar.bmp"
+IDR_TOOLBAR             BITMAP                  "res\\toolbar.bmp"
 
 /////////////////////////////////////////////////////////////////////////////
 //
